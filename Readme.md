@@ -1,6 +1,6 @@
-## Basic Data structures implementation in python
+# Basic Data structures implementation in python
 
-# Graph
-# Linked lists
-# Stack
-# Queue
+- ✅ Graph
+- ✅ Linked lists
+- ✅ Stack
+- ✅ Queue
